@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "792023362981",
+    "firebase_url": "https://dream11star-413e0.firebaseio.com",
+    "project_id": "dream11star-413e0",
+    "storage_bucket": "dream11star-413e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792023362981:android:8f0a3b3875c1dbfd",
+        "android_client_info": {
+          "package_name": "com.prabakaran_g.dream11star"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792023362981-erv7oas3i1v9m3vnllddb217hmhkqcf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prabakaran_g.dream11star",
+            "certificate_hash": "926fdd1dc7f97a87e4eb78440b1281b57466f997"
+          }
+        },
+        {
+          "client_id": "792023362981-879iaoacnu4slf8j6mhn5rngsg0t6vge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB84-Jjy-MwAvPTFXj2AxcSOjmghBuBvlY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792023362981-879iaoacnu4slf8j6mhn5rngsg0t6vge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
